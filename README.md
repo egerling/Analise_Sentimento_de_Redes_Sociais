@@ -1,0 +1,1 @@
+# Analise_Sentimento_de_Redes_Sociais
