@@ -2,7 +2,7 @@
 
 ## Descubra o que o mundo está *sentindo*!
 
-Este projeto captura o pulso da internet em tempo real! ⚡  Utilizando a API do Twitter, coletamos tweets sobre um tópico específico e, em seguida, desvendamos os sentimentos por trás das palavras com a poderosa API do Google Cloud Natural Language. 🧠
+Este projeto captura o pulso da internet em tempo real! ⚡  Utilizando a API do Twitter, coletamos tweets sobre um tópico específico e, em seguida, desvendamos os sentimentos por trás das palavras com a poderosa API do Google Generative AI. 🧠
 
 **Visualizações intuitivas** revelam as flutuações do sentimento ao longo do tempo, permitindo que você monitore tendências, reações a eventos e muito mais. 📊
 
@@ -15,7 +15,7 @@ Este projeto captura o pulso da internet em tempo real! ⚡  Utilizando a API do
 **Construído com:**
 
 * Python
-* Google Cloud Natural Language API
+* Google Generative AI API
 * Tweepy
 * Matplotlib
 
